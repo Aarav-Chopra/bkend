@@ -24,6 +24,6 @@ This project shows basic use of Restful APIs to get manually entered data in JSO
 
 - it helps to get an basic idea on how APIs work and stuff
 
-### 🙏 Conclusion
+## 🙏 Conclusion
 
 - Thanks for giving it a view ༼ つ ◕_◕ ༽つ
